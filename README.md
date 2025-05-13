@@ -2,7 +2,7 @@
 
 This repository contains an interactive **Power BI dashboard** developed to analyze **HR attrition data**. The dashboard provides insights into employee turnover trends across different departments, job roles, salary brackets, age groups, and more.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Screenshot 2025-05-13 171203.png)
 
 ---
 
